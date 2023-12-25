@@ -1,2 +1,2 @@
 # Bulk-Renamer-App
-This is a simple app which merges pdf files together into one file.
+This is a simple app which renames many files at once.
