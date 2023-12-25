@@ -1,0 +1,19 @@
+{
+  "name": "bulk-renamer-app",
+  "version": "1.0.0",
+  "description": "This is a simple app which renames many files at once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Abdul-Kalaam-25/Bulk-Renamer-App.git"
+  },
+  "author": "Alan-Abdul-Kalaam-25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-Abdul-Kalaam-25/Bulk-Renamer-App/issues"
+  },
+  "homepage": "https://github.com/Alan-Abdul-Kalaam-25/Bulk-Renamer-App#readme"
+}
